@@ -4,7 +4,7 @@ git log ->
 
 history
 
-NEW BRANCH -> git checkout -n branchName
+NEW BRANCH -> git checkout -b branch
 
 to push changes:
 1) git add .
