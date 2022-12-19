@@ -1,0 +1,8 @@
+git status -> status
+
+NEW BRANCH -> git checkout -n branchName
+
+to push changes:
+1) git add .
+2) git commit -m message
+3) git push origin currentBranch
