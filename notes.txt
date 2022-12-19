@@ -1,5 +1,7 @@
 git status -> status
 
+git log -> q
+
 NEW BRANCH -> git checkout -n branchName
 
 to push changes:
