@@ -1,5 +1,21 @@
 body {
     margin: 0;
-    background: green;
+    background: white;
     text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: square;
+    text-align: left;
+}
+
+a::after{
+    content: "\a";
+    white-space: pre;
 }
