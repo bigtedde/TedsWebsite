@@ -11,6 +11,9 @@ to push changes:
 2) git commit -m message
 3) git push origin currentBranch
 
+Delete branch:
+1. git push origin --delete "branch"
+
 Boilerplate HTML document:
 1. type doc<tab>
 2. fill in the h1
